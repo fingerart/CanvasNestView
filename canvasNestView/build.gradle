@@ -35,7 +35,7 @@ ext {
     gitUrl = 'https://github.com/fingerart/CanvasNestView.git'
     issueUrl = 'https://github.com/fingerart/CanvasNestView/issues'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'fingerart'
     developerName = 'FingerArt'

@@ -42,11 +42,11 @@ public class CanvasNestView extends View implements Runnable {
     }
 
     private void initAttrs(Context context, AttributeSet attrs, int defStyleAttr) {
-        TypedArray typedArray = context.obtainStyledAttributes(attrs, me.fingerart.android.R.styleable.CanvasNestView, defStyleAttr, 0);
-        mCountPoint = typedArray.getInt(me.fingerart.android.R.styleable.CanvasNestView_count_point, 99);
-        mMaxDistance = typedArray.getInt(me.fingerart.android.R.styleable.CanvasNestView_max_distance, 100);
-        mPointColor = typedArray.getColor(me.fingerart.android.R.styleable.CanvasNestView_color_point, context.getResources().getColor(me.fingerart.android.R.color.canvas_nest_point_color));
-        mLineColor = typedArray.getColor(me.fingerart.android.R.styleable.CanvasNestView_color_line, context.getResources().getColor(me.fingerart.android.R.color.canvas_nest_line_color));
+        TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.CanvasNestView, defStyleAttr, 0);
+        mCountPoint = typedArray.getInt(R.styleable.CanvasNestView_count_point, 99);
+        mMaxDistance = typedArray.getInt(R.styleable.CanvasNestView_max_distance, 100);
+        mPointColor = typedArray.getColor(R.styleable.CanvasNestView_color_point, context.getResources().getColor(R.color.canvas_nest_point_color));
+        mLineColor = typedArray.getColor(R.styleable.CanvasNestView_color_line, context.getResources().getColor(R.color.canvas_nest_line_color));
     }
 
     private void initData() {
