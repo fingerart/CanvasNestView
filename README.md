@@ -1,5 +1,3 @@
-[TOP]
-
 # CanvasNestView
 一个效果很赞的背景效果，移植于 [canvas-nest.js](https://github.com/hustcc/canvas-nest.js)。
 
