@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="canvas_nest_point_color">#ff000000</color>
+    <color name="canvas_nest_line_color">#ff000000</color>
+</resources>

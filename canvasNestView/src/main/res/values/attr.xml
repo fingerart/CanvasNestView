@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CanvasNestView">
+        <attr name="count_point" format="integer"/>
+        <attr name="max_distance" format="integer"/>
+        <attr name="color_point" format="color"/>
+        <attr name="color_line" format="color"/>
+    </declare-styleable>
+</resources>
