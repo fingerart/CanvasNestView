@@ -8,7 +8,7 @@
 
 # 使用
 ```
-compile 'me.fingerart.android:canvasNestView:1.0.0'
+compile 'me.fingerart.android:canvasNestView:1.0.1'
 ```
 ``` xml
 <me.fingerart.android.library.CanvasNestView
