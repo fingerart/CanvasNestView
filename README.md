@@ -11,7 +11,7 @@
 compile 'me.fingerart.android:canvasNestView:1.0.0'
 ```
 ``` xml
-<me.fingerart.library.CanvasNestView
+<me.fingerart.android.library.CanvasNestView
    android:layout_width="match_parent"
    android:layout_height="match_parent"
    app:color_line="#ff000000"
