@@ -1,4 +1,4 @@
-package me.fingerart.library;
+package me.fingerart.android;
 
 import org.junit.Test;
 

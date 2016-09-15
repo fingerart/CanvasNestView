@@ -1,4 +1,4 @@
-package me.fingerart.library;
+package me.fingerart.android.library;
 
 /**
  * Created by FingerArt on 2016/8/9.
