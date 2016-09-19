@@ -6,6 +6,8 @@
 # 效果
 ![](./screenshots/canvasNestView.gif)
 
+[ ![Download](https://api.bintray.com/packages/fingerart/maven/CanvasNestView/images/download.svg) ](https://bintray.com/fingerart/maven/CanvasNestView/_latestVersion)
+
 # 使用
 ```
 compile 'me.fingerart.android:canvasNestView:1.0.1'
